@@ -47,22 +47,32 @@ h2 {
   text-align: center;
 }
 
+h4 {
+  color: #43e4e1;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2ch;
+  text-align: center;
+  line-height: 0;
+}
+
 p {
-  color: #0FC2C0;
+  color: #51eeeb;
   font-family: 'Montserrat', sans-serif;
   font-size: 2ch;
   text-align : center;
+  line-height: 0;
 }
 
-.sec1{
-  text-align: center;
+.sec1 {
+  margin-left: 37.7%;
 }
 
 .liTitles {
   color: #0FC2C0;
   font-family: 'Montserrat', sans-serif;
-  font-size: 3ch;
+  font-size: 4ch;
   text-align : center;
+  margin-top: 50px;
 }
 
 .button1 {
