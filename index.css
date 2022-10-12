@@ -45,6 +45,7 @@ p {
   font-family: 'Montserrat', sans-serif;
   font-size: 4ch;
   text-align : center;
+  line-height: 0;
 }
 
 .button1 {
