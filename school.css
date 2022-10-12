@@ -13,11 +13,11 @@ ul {
   background-color: #333;
 }
 
-li {
+.li1 {
   float: left;
 }
 
-li a {
+.li1 a {
   display: block;
   color: white;
   text-align: center;
@@ -25,7 +25,7 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+.li1 a:hover {
   background-color: #015958;
 }
 
@@ -40,10 +40,28 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  color: #0FC2C0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 4ch;
+  text-align: center;
+}
+
 p {
   color: #0FC2C0;
   font-family: 'Montserrat', sans-serif;
-  font-size: 4ch;
+  font-size: 2ch;
+  text-align : center;
+}
+
+.sec1{
+  text-align: center;
+}
+
+.liTitles {
+  color: #0FC2C0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3ch;
   text-align : center;
 }
 
