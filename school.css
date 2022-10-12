@@ -59,9 +59,9 @@ h5 {
   color: #51eeeb;
   font-family: 'Montserrat', sans-serif;
   font-size: 1.5ch;
-  position: fixed;
+  position: absolute;
   bottom: 0;
-  text-align: center;
+  text-align: left;
 }
 
 p {
