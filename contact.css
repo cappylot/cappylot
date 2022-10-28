@@ -40,6 +40,11 @@ h1 {
   text-align: center;
 }
 
+a {
+  text-decoration: underline;
+  color: white;
+}
+
 .paragraph {
   color: #0FC2C0;
   font-family: 'Montserrat', sans-serif;
