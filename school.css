@@ -126,3 +126,16 @@ a {
 .button1container {
   text-align: center;
 }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 50px;
+}
+
+.grid-item {
+  padding: 20px;
+  text-align: center;
+  font-size: 2rem;
+  color: white;
+}
