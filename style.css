@@ -28,9 +28,9 @@ header {
 
 header .logo {
     color: #fff;
-    font-weight: 700;
+    font-weight: 800;
     text-decoration: none;
-    font-size: 2em;
+    font-size: 3em;
     text-transform: uppercase;
     letter-spacing: 2px;
 }
@@ -129,22 +129,33 @@ section img#mountains_front
     transform: translateY(100px);
 }
 
-.sec 
+.sec,
+.sec2,
+.sec3
 {
     position: relative;
     padding: 100px;
     background: #1c0522;
 }
 
-.sec h2
+.sec h2,
+.sec2 h2,
+.sec3 h2
 {
     font-size: 3.5em;
     margin-bottom: 10px;
     color: #fff;
 }
 
-.sec p
+.sec p,
+.sec2 p,
+.sec3 p
 {
     font-size: 1.3em;
     color: #fff;
+}
+
+.game {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
